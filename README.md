@@ -1,7 +1,7 @@
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Pedro H. Bernardo Nunes"
+        self.name = "Pedro H."
         self.primary_role = "Software Engineer"  # 🎯 Principal
         self.passion = "Technology, Design & Innovation"
         self.languages = ["🇧🇷 PT-BR", "🇺🇸 EN", "🇯🇵 JP"]
