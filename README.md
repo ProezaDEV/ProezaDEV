@@ -1,4 +1,4 @@
-python
+```python
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Pedro H. Bernardo Nunes"
@@ -12,7 +12,6 @@ class SoftwareEngineer:
     def say_hi(self):
         return "Software Engineer apaixonado por criar soluções digitais incríveis! 🚀"
 ```
-
 💻 **Software Engineer** | 🌍 **Multilíngue** | 🎨 **Designer** | 🎬 **Video Maker** | 📱 **Social Media Manager**
 
-*"Desenvolvedor full-stack apaixonado por tecnologia, design e inovação. Combinando código com criatividade para criar experiências digitais excepcionais."*
+*Desenvolvedor full-stack apaixonado por tecnologia, design e inovação. Combinando código com criatividade para criar experiências digitais excepcionais."*
