@@ -1,16 +1,18 @@
-## Hi there 👋
+python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Pedro H. Bernardo Nunes"
+        self.primary_role = "Software Engineer"  # 🎯 Principal
+        self.passion = "Technology, Design & Innovation"
+        self.languages = ["🇧🇷 PT-BR", "🇺🇸 EN", "🇯🇵 JP"]
+        self.tech_stack = ["JavaScript", "TypeScript", "React", "Node.js", "C/C++", "C#", "Java"]
+        self.additional_skills = ["Video Making", "UI/UX Design", "Social Media Management"]
+        self.tools = ["Figma", "WordPress", "Photoshop", "CorelDRAW", "Video Editing"]
+    
+    def say_hi(self):
+        return "Software Engineer apaixonado por criar soluções digitais incríveis! 🚀"
+```
 
-<!--
-**ProezaDEV/ProezaDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer** | 🌍 **Multilíngue** | 🎨 **Designer** | 🎬 **Video Maker** | 📱 **Social Media Manager**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Desenvolvedor full-stack apaixonado por tecnologia, design e inovação. Combinando código com criatividade para criar experiências digitais excepcionais."*
