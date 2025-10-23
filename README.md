@@ -2,7 +2,7 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Pedro H. Bernardo Nunes"
-        self.primary_role = "Software Engineer"  # 🎯 Principal
+        self.primary_role = "Programador web full stack"  # 🎯 Principal
         self.education = "Engenharia de Software - PUC Minas"  # 🎓 Cursando
         self.passion = "Technology, Design & Innovation"
         self.languages = ["🇧🇷 PT-BR", "🇺🇸 EN",]
