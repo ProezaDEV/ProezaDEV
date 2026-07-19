@@ -22,16 +22,59 @@ Programador **Full Stack** · Estudante de **Engenharia de Software — PUC Mina
 
 ## Sobre mim
 
-Programador **Full Stack**. Estou cursando **Engenharia de Software na PUC Minas**.  
-Também tenho conhecimentos em **ethical hacking** e em ambientes **Linux / Kali Linux**.
+<div align="center">
 
-| | |
-| :--- | :--- |
+<img src="https://img.shields.io/badge/%F0%9F%91%A4_Nome-Pedro%20H.%20Bernardo%20Nunes-0a0a0a?style=for-the-badge&labelColor=7f1d1d" alt="nome" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BB_Full%20Stack-Developer-0a0a0a?style=for-the-badge&labelColor=ef4444" alt="fullstack" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93_PUC%20Minas-Eng.%20Software-0a0a0a?style=for-the-badge&labelColor=7f1d1d" alt="puc" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Perfil
+
+Programador **Full Stack**.  
+Cursando **Engenharia de Software na PUC Minas**.  
+Conhecimentos em **hacking ético**, **Linux** e **Kali Linux**.
+
+| Campo | Detalhe |
+| :---: | :--- |
 | **Nome** | Pedro H. Bernardo Nunes |
 | **Área** | Programador Full Stack |
 | **Estudos** | Engenharia de Software — PUC Minas |
-| **Extra** | Ethical hacking · Linux · Kali |
 | **Idiomas** | 🇧🇷 Português · 🇺🇸 Inglês |
+
+</td>
+<td width="45%" valign="top">
+
+### Extra · Security Lab
+
+Conhecimentos práticos / estudo:
+
+<p align="center">
+
+![Sweeping](https://img.shields.io/badge/Sweeping-recon%20%2F%20scan-0a0a0a?style=for-the-badge&logoColor=ef4444&color=7f1d1d)
+![SQLMap](https://img.shields.io/badge/SQLMap-SQLi%20testing-0a0a0a?style=for-the-badge&color=ef4444)
+![DDoS](https://img.shields.io/badge/DDoS-estudo%20%2F%20lab-0a0a0a?style=for-the-badge&color=7f1d1d)
+![Kali](https://img.shields.io/badge/Kali%20Linux-lab-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=ef4444)
+![Linux](https://img.shields.io/badge/Linux-ambiente-0a0a0a?style=for-the-badge&logo=linux&logoColor=ef4444)
+
+</p>
+
+```text
+[+] full stack
+[+] eng. software · puc minas
+[+] ethical hacking skills
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -105,8 +148,32 @@ Skills que estudo e pratico em lab / contexto ético:
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=ProezaDEV&show_icons=true&theme=radical&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=fca5a5&bg_color=0a0a0a" alt="GitHub stats" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProezaDEV&layout=compact&theme=radical&hide_border=true&title_color=ef4444&text_color=fca5a5&bg_color=0a0a0a" alt="Top languages" />
+### Activity panel
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/ProezaDEV">
+        <img src="https://github-readme-stats.vercel.app/api?username=ProezaDEV&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ef4444&icon_color=ef4444&text_color=fca5a5&border_radius=12&cache_seconds=1800" width="100%" alt="stats" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/ProezaDEV">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProezaDEV&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ef4444&text_color=fca5a5&border_radius=12&cache_seconds=1800" width="100%" alt="langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ProezaDEV&theme=radical&hide_border=true&background=0A0A0A&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=FCA5A5&dates=7F1D1D" width="70%" alt="streak" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/ProezaDEV?style=for-the-badge&logo=github&logoColor=ef4444&label=Followers&color=0a0a0a&labelColor=7f1d1d" alt="followers" />
+<img src="https://img.shields.io/github/stars/ProezaDEV?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=ef4444&label=Stars&color=0a0a0a&labelColor=ef4444" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=ProezaDEV&style=for-the-badge&color=7f1d1d&label=Profile+views" alt="views" />
 
 </div>
 
