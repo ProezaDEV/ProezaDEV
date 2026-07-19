@@ -1,51 +1,63 @@
 <!--
   ProezaDEV — GitHub Profile README
+  Aesthetic: dark · red team · Kali · viper
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F766E,100:0EA5A0&height=180&section=header&text=ProezaDEV&fontSize=52&fontAlignY=35&desc=Pedro%20Henrique%20%C2%B7%20BH%20%E2%80%94%20%C3%89%20Noiz&descAlignY=58&descSize=18&fontColor=E5E7EB&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:1A0505,100:7F1D1D&height=200&section=header&text=ProezaDEV&fontSize=54&fontAlignY=34&desc=Full%20Stack%20%C2%B7%20Ethical%20Hacker%20%C2%B7%20Red%20Team&descAlignY=58&descSize=16&fontColor=FCA5A5&animation=fadeIn" width="100%" alt="header" />
 
-**Software Engineer** · Full Stack · Design · Video · Social Media
+**Pedro H. Bernardo Nunes**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ProezaDEV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProezaDEV)
-[![PUC Minas](https://img.shields.io/badge/PUC%20Minas-Eng.%20de%20Software-0ea5a0?style=for-the-badge)](https://github.com/ProezaDEV)
-[![BH](https://img.shields.io/badge/Belo%20Horizonte-111827?style=for-the-badge)](https://github.com/ProezaDEV)
+Programador **Full Stack** · Estudante de **Engenharia de Software** · **Ethical Hacker**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=0EA5A0&center=true&vCenter=true&width=680&lines=Programando+com+ast%C3%BAcia+e+estilo;Full+Stack+%2B+Design+%2B+Inova%C3%A7%C3%A3o;Criando+experi%C3%AAncias+digitais+com+identidade" alt="typing" />
+[![GitHub](https://img.shields.io/badge/GitHub-ProezaDEV-0a0a0a?style=for-the-badge&logo=github&logoColor=ef4444)](https://github.com/ProezaDEV)
+[![Kali](https://img.shields.io/badge/Kali%20Linux-Red%20Team-1a0505?style=for-the-badge&logo=kalilinux&logoColor=ef4444)](https://www.kali.org/)
+[![Status](https://img.shields.io/badge/Mode-Offensive%20%2F%20Creative-7f1d1d?style=for-the-badge)](https://github.com/ProezaDEV)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=800&color=EF4444&center=true&vCenter=true&width=720&lines=Programando+com+ast%C3%BAcia+e+estilo;Full+Stack+%2B+Ethical+Hacking;Kali+%C2%B7+Red+Team+%C2%B7+Dark+Ops+Aesthetic" alt="typing" />
 
 </div>
 
 ---
 
-## Painel · Quem sou eu
+## Painel · Identidade
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-### Pedro H. Bernardo Nunes
+### Quem eu sou
 
-Estudante de **Engenharia de Software na PUC Minas** e programador **web full stack**.  
-Unindo código, design e audiovisual para criar experiências digitais com identidade — do layout ao deploy.
+Programador **Full Stack** em formação — curso de **Engenharia de Software**.  
+Também atuo no lado **offensive / ethical hacking**: laboratório com **Kali Linux**, mentalidade **red team**, estética dark (viper / hydra).
 
-- **Foco:** Programador web full stack
-- **Formação:** Engenharia de Software — PUC Minas *(cursando)*
-- **Paixão:** Technology, Design & Innovation
+Código no dia. Exploração controlada no lab. Design e mídia no meio.
+
+- **Papel principal:** Programador Full Stack
+- **Formação:** Engenharia de Software *(cursando)*
+- **Segurança:** Ethical Hacking · Red Team mindset
+- **Lab:** Kali Linux · tooling ofensivo (estudo / lab)
 - **Idiomas:** 🇧🇷 Português · 🇺🇸 Inglês
-- **Base:** Belo Horizonte — *BH É Noiz*
 
 </td>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-### Papéis
+### Operação
 
-| Área | Como atuo |
+| Canal | Status |
 | :--- | :--- |
-| Engenharia | Full stack, APIs, produtos web |
-| Design | UI/UX, Figma, identidade |
-| Audiovisual | Edição de vídeo e conteúdo |
-| Social | Gestão e criação de mídia |
+| Full Stack | Ativo |
+| Ethical Hacking | Lab / estudo |
+| Red Team aesthetic | On |
+| Design & Video | Ativo |
+| Social Media | Ativo |
+
+```
+> access granted
+> user: ProezaDEV
+> mode: dark · red
+```
 
 </td>
 </tr>
@@ -53,26 +65,36 @@ Unindo código, design e audiovisual para criar experiências digitais com ident
 
 ---
 
-## Painel · Atuação
+## Painel · Frentes
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Engenharia & código
-Construo aplicações web ponta a ponta — front, back e integração — com atenção a performance, clareza e acabamento.
+### Full Stack
+Construo produtos web ponta a ponta — front, back e integração — com atenção a performance e acabamento.
 
 - React / TypeScript / Node.js
+- APIs e automações
 - C / C++ / C# / Java quando o projeto pede
-- APIs, automações e produtos digitais
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### Ethical Hack · Red Team
+Estudo e prática em lab com Kali: reconhecimento, análise e mentalidade ofensiva — sempre em ambiente controlado / ético.
+
+- Kali Linux
+- Red team mindset
+- Dark ops aesthetic (viper / hydra)
+
+</td>
+<td width="33%" valign="top">
 
 ### Design & mídia
-Do protótipo ao conteúdo publicado: visual limpo, narrativa forte e presença nas redes.
+Do protótipo ao conteúdo: visual forte, narrativa e presença.
 
-- UI/UX e prototipagem (Figma)
+- UI/UX · Figma
 - Photoshop · CorelDRAW · WordPress
 - Video editing · Social media
 
@@ -82,28 +104,34 @@ Do protótipo ao conteúdo publicado: visual limpo, narrativa forte e presença 
 
 ---
 
-## Painel · Stack
+## Painel · Arsenal
 
 <div align="center">
 
-### Linguagens & runtime
+### Código
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0a0a0a?style=for-the-badge&logo=csharp&logoColor=239120)
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+
+### Red Team / Lab
+
+![Kali](https://img.shields.io/badge/Kali%20Linux-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=ef4444)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=ef4444)
+![Terminal](https://img.shields.io/badge/Terminal-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=ef4444)
+![Security](https://img.shields.io/badge/Ethical%20Hacking-7f1d1d?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ### Design & mídia
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-4DCF7A?style=for-the-badge)
-![Video](https://img.shields.io/badge/Video%20Editing-111827?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Photoshop](https://img.shields.io/badge/Photoshop-0a0a0a?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![WordPress](https://img.shields.io/badge/WordPress-0a0a0a?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Video](https://img.shields.io/badge/Video%20Editing-0a0a0a?style=for-the-badge&logoColor=ef4444)
 
 </div>
 
@@ -113,25 +141,30 @@ Do protótipo ao conteúdo publicado: visual limpo, narrativa forte e presença 
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=ProezaDEV&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5a0&icon_color=0ea5a0&text_color=e5e7eb&bg_color=00000000" alt="GitHub stats" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProezaDEV&layout=compact&theme=transparent&hide_border=true&title_color=0ea5a0&text_color=e5e7eb&bg_color=00000000" alt="Top languages" />
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=ProezaDEV&show_icons=true&theme=radical&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=fca5a5&bg_color=0a0a0a" alt="GitHub stats" />
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProezaDEV&layout=compact&theme=radical&hide_border=true&title_color=ef4444&text_color=fca5a5&bg_color=0a0a0a" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProezaDEV&theme=transparent&hide_border=true&ring=0ea5a0&fire=0ea5a0&currStreakLabel=0ea5a0" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProezaDEV&theme=radical&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&background=0a0a0a" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## Em uma linha
+## Payload
 
-> Software Engineer apaixonado por criar soluções digitais incríveis — código com criatividade, do protótipo ao produto.
+> Full Stack no código. Ethical hacker no lab. Estética dark — viper, hydra, red team.  
+> Estudando Engenharia de Software. Construindo com astúcia e estilo.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5A0,50:0F766E,100:0B1220&height=100&section=footer" width="100%" alt="footer" />
+```
+[ ProezaDEV ]  access · create · break · rebuild
+```
 
-**ProezaDEV** · Programando com astúcia e estilo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:1A0505,100:050505&height=110&section=footer" width="100%" alt="footer" />
+
+**ProezaDEV** · dark mode enabled
 
 </div>
