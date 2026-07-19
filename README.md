@@ -118,10 +118,10 @@ Sweeping, SQLMap, DDoS, Linux e Kali — nível profissional.
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=ProezaDEV&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ef4444&icon_color=ef4444&text_color=fca5a5&border_radius=12&cache_seconds=1800" width="100%" alt="stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProezaDEV&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ef4444&icon_color=ef4444&text_color=fca5a5&border_radius=12" width="100%" alt="estatisticas" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProezaDEV&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ef4444&text_color=fca5a5&border_radius=12&cache_seconds=1800" width="100%" alt="langs" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProezaDEV&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ef4444&text_color=fca5a5&border_radius=12" width="100%" alt="linguagens" />
     </td>
   </tr>
 </table>
